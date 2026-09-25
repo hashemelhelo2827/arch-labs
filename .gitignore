@@ -1,0 +1,9 @@
+LAB1/Arch_Lab1.pdf
+LAB1/Arch_Lab1_Req.pdf
+
+# ModelSim build artifacts
+work/
+transcript
+vsim.wlf
+*.vcd
+*.asv
