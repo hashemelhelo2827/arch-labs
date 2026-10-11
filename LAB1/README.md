@@ -1,4 +1,4 @@
-# arch-labs
+# arch-lab-1
 
 Computer architecture labs in VHDL — a 16-bit ALU built from logic, shift, and rotate units, verified in ModelSim.
 
